@@ -1,0 +1,2 @@
+# MongoDB Aggregation Pipeline Bug
+This repository demonstrates a common error in MongoDB aggregation pipelines. The provided code snippet shows an aggregation pipeline that is not working as expected due to issues with filtering and grouping. The solution demonstrates the corrected pipeline.  This demonstrates potential for unexpected results if not carefully constructed.
